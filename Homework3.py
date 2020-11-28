@@ -12,4 +12,4 @@ def get_size(start_path='.'):
     return size
 
 
-print(str(get_size(f)))
+print(get_size(f))
